@@ -1,0 +1,12 @@
+# Ignore venv and system files
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.DS_Store
+*.so
+*.dll
+*.lib
+
+# FAISS binary and pickle (optional, if you want to regenerate it later)
+vectorstore/

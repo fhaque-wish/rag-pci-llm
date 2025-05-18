@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers==2.5.1
+faiss-cpu
+PyPDF2
+python-docx
+torch==2.1.2+cpu --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+numpy==1.26.4
