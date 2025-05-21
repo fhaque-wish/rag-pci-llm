@@ -145,6 +145,7 @@ MIT License
 ## 📌 TODOs
 
 - Proposed RAG Flow
+  ![alt text](https://github.com/fhaque-wish/rag-pci-llm/blob/main/Blank%20network%20diagram.jpeg)
   
 ---
 
