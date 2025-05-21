@@ -144,11 +144,8 @@ MIT License
 
 ## 📌 TODOs
 
-- [ ] Add Streamlit web interface
-- [ ] Filter by PCI version / control ID
-- [ ] Export response history
-- [ ] Integrate query reranking
-
+- Proposed RAG Flow
+  
 ---
 
 ## 🙋‍♂️ Questions or Contributions?
